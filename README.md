@@ -1,3 +1,6 @@
 # ahdt
-Apple Health Data Tools(adht) 是一个专门为处理、分析和可视化 Apple 设备健康数据而精心打造的 Python 工具包。借助 Apple 设备强大的健康数据收集能力，该工具包能够帮助开发者、科研人员以及健康爱好者深入挖掘数据背后的价值，实现对健康状况的精准洞察。
+
+# what is ahdt?
+Apple Health Data Tools (ahdt) is a meticulously crafted Python toolkit designed specifically for processing, analyzing, and visualizing health data from Apple devices. Leveraging the powerful health data collection capabilities of Apple devices, this toolkit enables developers, researchers, and health enthusiasts to delve deep into the value hidden behind the data and achieve precise insights into health conditions.
+
 
